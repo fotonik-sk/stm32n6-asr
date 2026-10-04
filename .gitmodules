@@ -1,0 +1,4 @@
+[submodule "src/middleware/threadx/ThreadX"]
+	path = src/middleware/threadx/ThreadX
+	url = https://github.com/eclipse-threadx/threadx.git
+	branch = master

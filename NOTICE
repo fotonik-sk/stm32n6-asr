@@ -1,0 +1,25 @@
+stm32n6-asr
+Copyright 2026 Nikita Prismakov
+
+This repository combines components under several licenses; see REUSE.toml
+and the license texts in LICENSES/.
+
+The model weights in src/asr_engine/models/ are licensed under CC BY-NC-SA 4.0
+and may be used for non-commercial purposes only.
+
+The display font in src/middleware/lcd/mw_lcd_font_sans_48.inc, which every
+firmware image contains, is a rasterized subset of the Liberation Sans Regular
+font:
+
+  Digitized data copyright (c) 2010 Google Corporation with Reserved Font
+  Arimo, Tinos and Cousine.
+  Copyright (c) 2012 Red Hat, Inc. with Reserved Font Name Liberation.
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+The license text is in LICENSES/OFL-1.1.txt. Keep this notice and the license
+text with every copy of the font data, including a firmware image.
+
+STMicroelectronics, STM32, the ST logo, GitHub and other marks named or shown
+in this repository (including src/application/display/images/startup_logo.png) belong
+to their respective owners; no endorsement is implied.
