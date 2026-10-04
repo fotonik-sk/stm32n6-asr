@@ -17,11 +17,7 @@ them.
 > smaller part of the time, and the power has not been optimized yet.
 
 ## Demo
-
-<!-- Upload the video in the GitHub web editor and paste the
-     https://github.com/user-attachments/assets/... link on the line below,
-     on a line of its own. -->
-`<demo-video>`
+https://github.com/user-attachments/assets/37d52194-dc13-48a2-ba21-c84aa8fd977e
 
 The subtitles show what was said; the letters in red are the ones the board
 got wrong.
